@@ -5,5 +5,5 @@ Hello!
 
 What's next?
 
-Hi! =)
+Hi! :)
 
